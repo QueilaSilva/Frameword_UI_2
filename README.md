@@ -1,6 +1,5 @@
 # Frameword_UI_2
 Automação do site DEMOQA, usando Page-Objects
-Automação do site DEMOQA.
 
 Execução de testes automatizados
 
